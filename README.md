@@ -31,9 +31,6 @@ Here are some ideas to get you started:
 - Transformer Models, LLM, Machine/Deep Learning, NLP  
 - PySpark, Azure, Databricks
 
-🌱 I'm currently learning: 
-- Data Warehousing
-
 ---
 
 <p align="center">
