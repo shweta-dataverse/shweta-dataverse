@@ -21,9 +21,9 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=shweta27407&color=yellow" alt="profile views" />
 </p>
 
-🎯 I'm currently a **Research Assistant (ML/DS)** at **OVGU Magdeburg**.
+🎯 I'm currently a **Research Assistant (Data Engineering and ML)** at **OVGU Magdeburg**.
 
-🔬 My current research focus is on **Anomaly Detection in Industrial Sensor Time Series Data** using deep learning models.
+🔬 My current research focus is on **Anomaly Detection in Industrial Manufacturing Time Series Sensor Data** using deep learning models.
 
 
 📊 My tools & interests:
