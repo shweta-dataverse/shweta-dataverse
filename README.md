@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shweta27407&show_icons=true&theme=radical" alt="Shweta's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shweta-dataverse&show_icons=true&theme=radical" alt="Shweta's GitHub Stats" />
 </p>
