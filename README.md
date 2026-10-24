@@ -21,9 +21,9 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=shweta27407&color=yellow" alt="profile views" />
 </p>
 
-🎯 I'm currently a **Data Engineer and Machine Learning Assistant** at **OVGU Magdeburg**.
+🎯 I'm currently a **Data Science Assistant** at **OVGU Magdeburg**.
 
-🔬 My current work is focused on **Machine Failure Prediction and Failure Forecasting** for Industrial Manufacturing Systems using deep learning models.
+🔬 My current work is focused on **Machine Failure Prediction and Load/Failure Forecasting** for Industrial Manufacturing Systems using deep learning models.
 
 
 📊 My tools & interests:
